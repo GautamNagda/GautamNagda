@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Web & AI Projects<br>👯 Collaborating on: Open-Source & Student Projects<br>🤝 Looking for help with: Full-Stack Development<br>🌱 Learning: DSA, JavaScript & AI/ML<br>💬 Ask me about: C++, Web Dev & Tech<br>⚡ Fun fact: Build → Break → Learn → Repeat 🔄
+🔭 Working on: Web & AI Projects<br>👯 Collaborating on: Open-Source & Student Projects<br>🤝 Looking for help with: Full-Stack Development<br>🌱 Learning: DSA, JavaScript & AI/ML<br>💬 Ask me about: C++, Web Dev & Tech<br>⚡ Build → Break → Learn → Repeat 🔄
 
 
 ## 🌐 Socials:
